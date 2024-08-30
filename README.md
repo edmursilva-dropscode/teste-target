@@ -60,6 +60,11 @@ Você está em uma sala com três interruptores, cada um conectado a uma lâmpad
 Um sistema de exibição foi desenvolvido para apresentar as perguntas e soluções relacionadas a este problema. O sistema permite que o usuário visualize a lógica para determinar qual interruptor controla cada lâmpada com base em uma abordagem prática e lógica.
 
 
+### Ferramenta utilizada
+. IDE - Visual Studio 2022,
+. C#
+
+
 <br>
 <h1 align="center">
     <img src="./Teste_Target/fotoTesteTarget.png">

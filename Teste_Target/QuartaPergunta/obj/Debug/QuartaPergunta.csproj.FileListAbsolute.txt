@@ -1,0 +1,7 @@
+C:\Teste_Target\QuartaPergunta\bin\Debug\QuartaPergunta.exe.config
+C:\Teste_Target\QuartaPergunta\bin\Debug\QuartaPergunta.exe
+C:\Teste_Target\QuartaPergunta\bin\Debug\QuartaPergunta.pdb
+C:\Teste_Target\QuartaPergunta\obj\Debug\QuartaPergunta.csproj.AssemblyReference.cache
+C:\Teste_Target\QuartaPergunta\obj\Debug\QuartaPergunta.csproj.CoreCompileInputs.cache
+C:\Teste_Target\QuartaPergunta\obj\Debug\QuartaPergunta.exe
+C:\Teste_Target\QuartaPergunta\obj\Debug\QuartaPergunta.pdb

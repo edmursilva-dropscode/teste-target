@@ -1,0 +1,7 @@
+C:\Teste_Target\SegundaPergunta\bin\Debug\SegundaPergunta.exe.config
+C:\Teste_Target\SegundaPergunta\bin\Debug\SegundaPergunta.exe
+C:\Teste_Target\SegundaPergunta\bin\Debug\SegundaPergunta.pdb
+C:\Teste_Target\SegundaPergunta\obj\Debug\SegundaPergunta.csproj.AssemblyReference.cache
+C:\Teste_Target\SegundaPergunta\obj\Debug\SegundaPergunta.csproj.CoreCompileInputs.cache
+C:\Teste_Target\SegundaPergunta\obj\Debug\SegundaPergunta.exe
+C:\Teste_Target\SegundaPergunta\obj\Debug\SegundaPergunta.pdb

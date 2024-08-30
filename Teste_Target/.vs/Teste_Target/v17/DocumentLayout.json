@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Teste_Target\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53654E37-3955-4503-B26C-B412B98EE474}|PrimeiraPergunta\\PrimeiraPergunta.csproj|c:\\teste_target\\primeirapergunta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53654E37-3955-4503-B26C-B412B98EE474}|PrimeiraPergunta\\PrimeiraPergunta.csproj|solutionrelative:primeirapergunta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Teste_Target\\PrimeiraPergunta\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiraPergunta\\Program.cs",
+              "ToolTip": "C:\\Teste_Target\\PrimeiraPergunta\\Program.cs",
+              "RelativeToolTip": "PrimeiraPergunta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:05:44.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

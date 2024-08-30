@@ -27,7 +27,6 @@ Se você desenvolveu um sistema em C# console para esta questão, o programa dev
 ### Questão 3: Cálculo da Soma
 **Descrição:**
 Analise o trecho de código fornecido e determine o valor final da variável `SOMA`.
-```c
 int INDICE = 12, SOMA = 0, K = 1;
 while (K < INDICE)
 {
